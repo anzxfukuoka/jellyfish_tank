@@ -1,0 +1,10 @@
+Temp/
+.vs/
+Logs/
+Packages/
+Library/
+ProjectSettings/
+
+JellyTank.Editor.csproj
+JellyTank.csproj
+JellyTank.sln
