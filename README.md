@@ -2,4 +2,6 @@
 
 jellyfish model demo in Unity
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oxlmh8h1bpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Oxlmh8h1bpE
+
+[![Video](https://img.youtube.com/vi/Oxlmh8h1bpE/0.jpg)](https://www.youtube.com/watch?v=Oxlmh8h1bpE)
